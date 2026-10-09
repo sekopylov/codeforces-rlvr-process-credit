@@ -1,7 +1,5 @@
 # Codeforces RLVR process-credit study
 
-Research report and evaluation record by **Sergei Kopylov** (2026).
-
 ## Question
 
 In Codeforces RLVR, the final C++ program receives a verifier outcome, while the preceding reasoning trace may contain both useful decisions and mistakes. Can an evaluator with access to an editorial help locate useful reasoning steps without giving that privileged information to the student?
