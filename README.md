@@ -21,6 +21,3 @@ In Codeforces RLVR, the final C++ program receives a verifier outcome, while the
 
 The report is an archive of the June 2026 study. Its literature review and novelty discussion reflect that date; for related subsequent work, see [Le Critique: Privileged Value Functions for LLM Reinforcement Learning](https://arxiv.org/abs/2608.16739). This repository does not contain the private training infrastructure, raw student trajectories, or annotated benchmark rows, so the published files document results rather than provide a fully reproducible release.
 
-## Project summary for a CV
-
-Developed privileged value and sparse-distillation teachers for student reasoning traces; found stronger outcome prediction with editorial context, but identified limits of value changes as automatic process-credit labels.
